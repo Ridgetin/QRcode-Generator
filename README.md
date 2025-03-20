@@ -27,3 +27,4 @@ A simple QR Code Generator web application using HTML, CSS, and JavaScript.
 
 ## License
 This project is open-source and free to use.
+![Screenshot 2025-03-20 225549](https://github.com/user-attachments/assets/7b4b4dfe-8bd5-4bab-b609-b9612a9171a6)
